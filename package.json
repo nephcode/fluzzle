@@ -1,5 +1,5 @@
 {
-  "name": "puzzle",
+  "name": "fluzzle",
   "description": "components for react / remix",
   "private": false,
   "version": "0.0.1",
@@ -7,17 +7,17 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/puzzle.umd.js",
-  "module": "./dist/puzzle.es.js",
+  "main": "./dist/fluzzle.umd.js",
+  "module": "./dist/fluzzle.es.js",
   "exports": {
     ".": {
-      "import": "./dist/puzzle.es.js",
-      "require": "./dist/puzzle.umd.js"
+      "import": "./dist/fluzzle.es.js",
+      "require": "./dist/fluzzle.umd.js"
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nephcode/puzzle.git"
+    "url": "git+https://github.com/nephcode/fluzzle.git"
   },
   "keywords": [
     "react",

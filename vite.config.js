@@ -10,7 +10,7 @@ export default defineConfig({
       entry: path.resolve("src", 'lib/Popover', 'index.jsx'),
       name: 'puzzle',
       // the proper extensions will be added
-      fileName: (format) => `puzzle.${format}.js`
+      fileName: (format) => `fluzzle.${format}.js`
     },
     rollupOptions: {
       // make sure to externalize deps that shouldn't be bundled
