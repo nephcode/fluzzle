@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     lib: {
       // Could also be a dictionary or array of multiple entry points
-      entry: path.resolve("src", 'lib/index.js'),
+      entry: path.resolve("src", 'lib/Popover', 'index.jsx'),
       name: 'puzzle',
       // the proper extensions will be added
       fileName: (format) => `puzzle.${format}.js`
