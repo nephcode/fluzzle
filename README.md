@@ -2,9 +2,9 @@
 
 <!-- ∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ -->
 
-# PUZZLE NPM COMPONENT
+# FLUZZLE
 
-Component FOR react
+Components Library for React & Remix Fullstack
 
 ## PROJECT DELIVERIES
 
@@ -13,34 +13,29 @@ Component FOR react
 | Deadline MVP           | `06-11-2024` |
 | Deadline CERTIFICATION | `07-11-2024` |
 
-
 ## INFORMATIONS
 
-| WHERE     | URL                                    |
-| :-------- | -------------------------------------- |
-| Discord   | [#](#)                                 |
-| Instagram | [https://www.instagram.com/](#)        |
-| www       | [#underconstution](#underconstruction) |
+| WHERE   | URL                               |
+| :------ | --------------------------------- |
+| DISCORD | [#](#)                            |
+| WWW     | [Fluzzle](fluzzle.youcodeuse.com) |
 
-| WHO IS   | FOR             |      COMPANY      | CONTACT | DISCORD |
-| :------- | --------------- | :---------------: | ------- | :-----: |
-| Nephelim | Head of concept | Underconstruction | #       |   YES   |
+| WHO IS   | FOR             |   COMPANY    | CONTACT | DISCORD |
+| :------- | --------------- | :----------: | ------- | :-----: |
+| Nephelim | Head of concept | illuminateam | #       |   YES   |
 
 ## TECHNO
 
-| TECHNO   | SPEC   |
-| :------- | ------ |
-| FRONTEND | `SASS` |
-| BACKEND |`BUN`|
-| BUNDLE |`VITE`|
+| TECHNO   | SPEC                       |
+| :------- | -------------------------- |
+| FRONTEND | `SASS` `STYLED COMPONENTS` |
+| BACKEND  | `REMIX`                    |
+| BUNDLE   | `VITE`                     |
 
-## RUNNING THE APPS
-
-Create branch
+## DOCUMENTATION
 
 ```
-git branch dev
-git branch release
+npm add fluzzle
 
 ```
 

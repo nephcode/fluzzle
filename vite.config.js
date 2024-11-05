@@ -8,7 +8,7 @@ export default defineConfig({
     lib: {
       // Could also be a dictionary or array of multiple entry points
       entry: path.resolve("src", 'lib/Popover', 'index.jsx'),
-      name: 'puzzle',
+      name: 'fluzzle',
       // the proper extensions will be added
       fileName: (format) => `fluzzle.${format}.js`
     },
