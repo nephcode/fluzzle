@@ -4,7 +4,8 @@
 
 # FLUZZLE
 
-Components Library for React & Remix Fullstack
+Components Library for React & Remix (RR7) Fullstack
+Road to CMS full remix with plugin
 
 ## PROJECT DELIVERIES
 
